@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Session files
+*.session
+
+# Output & Logs (optional)
+*.log
+output/
+logs/
+
+# Database
+*.db
+
+# IDE
+.vscode/
+.idea/
